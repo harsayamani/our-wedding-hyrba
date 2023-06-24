@@ -322,44 +322,44 @@
 			<div class="row row-bottom-padded-md">
 				<div class="col-md-12">
 					<ul id="fh5co-gallery-list">
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_3.jpg); ">
-                            <a href="/images/gallery/fav_3.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_3.JPG); ">
+                            <a href="/images/gallery/fav_3.JPG" class="color-1">
                             </a>
                         </li>
-                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_10.jpg); ">
-                            <a href="/images/gallery/fav_10.jpg" class="color-1">
+                        <li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_10.JPG); ">
+                            <a href="/images/gallery/fav_10.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_11.jpg); ">
-                            <a href="/images/gallery/fav_11.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_11.JPG); ">
+                            <a href="/images/gallery/fav_11.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_4.jpg); ">
-                            <a href="/images/gallery/fav_4.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_4.JPG); ">
+                            <a href="/images/gallery/fav_4.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_5.jpg); ">
-                            <a href="/images/gallery/fav_5.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_5.JPG); ">
+                            <a href="/images/gallery/fav_5.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_12.jpg); ">
-                            <a href="/images/gallery/fav_2.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_12.JPG); ">
+                            <a href="/images/gallery/fav_2.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_13.jpg); ">
-                            <a href="/images/gallery/fav_13.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_13.JPG); ">
+                            <a href="/images/gallery/fav_13.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_6.jpg); ">
-                            <a href="/images/gallery/fav_6.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_6.JPG); ">
+                            <a href="/images/gallery/fav_6.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_7.jpg); ">
-                            <a href="/images/gallery/fav_7.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_7.JPG); ">
+                            <a href="/images/gallery/fav_7.JPG" class="color-1">
                             </a>
                         </li>
-						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_14.jpg); ">
-                            <a href="/images/gallery/fav_14.jpg" class="color-1">
+						<li class="one-third animate-box" data-animate-effect="fadeIn" style="background-image: url(/images/gallery/fav_14.JPG); ">
+                            <a href="/images/gallery/fav_14.JPG" class="color-1">
                             </a>
                         </li>
 					</ul>
