@@ -2,8 +2,8 @@
 deployment:
   tasks:
     - current_path=`pwd`
-    - if [ $current_path == "/home/balw8356/repositories/sk-web-landing" ]; then export DEPLOYPATH=/home/balw8356/; fi;
-    - /bin/cp -R * $DEPLOYPATH/sk-web-landing/
+    - if [ $current_path == "/home/balw8356/repositories/our-wedding-hyrba" ]; then export DEPLOYPATH=/home/balw8356/; fi;
+    - /bin/cp -R * $DEPLOYPATH/our-wedding-hyrba/
     - /bin/cp -r $current_path/public/template $DEPLOYPATH/public_html/
     - /bin/cp -r $current_path/public/template_welcome $DEPLOYPATH/public_html/
     - /bin/cp -r $current_path/public/images $DEPLOYPATH/public_html/
