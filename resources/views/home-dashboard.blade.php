@@ -188,6 +188,7 @@
                     </div>
                     <div class="desc-groom">
                         <h3><b>Harsa Yamani</b></h3>
+                        <h3><a href="https://www.instagram.com/harsa_y"><i class="icon-instagram"></i></a></h3>
                         <p><b>Putra ketiga</b><br>Bapak Sumarta & Ibu Etun Tabiatun (Alm)</p>
                     </div>
                 </div>
@@ -198,6 +199,7 @@
                     </div>
                     <div class="desc-bride">
                         <h3><b>Rien Balqis Afifah</b></h3>
+                        <h3><a href="https://www.instagram.com/rbebee_"><i class="icon-instagram"></i></a></h3>
                         <p><b>Putri kedua</b><br>Bapak Slamet Sadriana & Ibu Ani Haerani</p>
                     </div>
                 </div>
@@ -211,7 +213,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
                     {{-- <span>Our Special Events</span> --}}
-                    <h2>Rangkaian Acara</h2>
+                    <h2>Our Special Day</h2>
                 </div>
             </div>
             <div class="row">
@@ -522,7 +524,7 @@
             <div class="row animate-box">
                 <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                     <h2>Send Wishes ?</h2>
-                    <p>Please Fill-up the form to send whishes. Thanks.</p>
+                    <p style="color: #fff">Please Fill-up the form to send whishes. Thanks.</p>
                 </div>
             </div>
             <div class="row animate-box">
@@ -570,6 +572,34 @@
                         Kabupaten Majalengka, Jawa Barat, 45477</p>
                     <p><b>Penerima : Rien Balqis Afifah</b></p>
                     <p><b>HP : 081910289855</b></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="fh5co-testimonial" style="background-image:url(/template_welcome/images/img_bg_3.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="row animate-box ">
+                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                        <p style="color: #fff">Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu?Saudara/i berkenan hadir untuk memberikan doa restu kepada kedua mempelai.</p>
+                        <p style="color: #fff">Wassalamualaikum Warahmatullahi Wabarakatuh</p>
+                        <p style="color: #fff">Turut Berbahagia</p>
+                        <div class="col-md-5">
+                            <p style="color: #fff">Ibu Tutit Sulistyoningtiyas <br>Bapak Sumarta</p>
+                        </div>
+                        <div class="col-md-2">
+                            <h2 style="color: #fff">&</h2>
+                        </div>
+                        <div class="col-md-5">
+                            <p style="color: #fff">Ibu Ani Haerani <br>Bapak Slamet Sadriana</p>
+                        </div>
+                        <hr>
+                        <div class="col-md-12">
+                            <h2 style="color: #fff">Harsa & Balqis</h2>
+                        </div>
+                        <hr>
+                    </div>
                 </div>
             </div>
         </div>
