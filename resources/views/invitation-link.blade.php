@@ -97,7 +97,7 @@
 
                         $('#guest_link').empty();
                         $('#guest_link').html(`
-                            <a href="${res.link}">${res.link}</a>
+                            <a href="${res.link}" target="_blank">${res.link}</a>
                         `)
                     });
 
