@@ -496,7 +496,7 @@
                                 @endforeach
                                 <div class="item">
                                     <div class="testimony-slide text-center">
-                                        <span>The Brides Family, via</span>
+                                        <span>The Brides Family</span>
                                         <blockquote>
                                             <p>"Semoga lancar sampai hari H"</p>
                                         </blockquote>
@@ -504,7 +504,7 @@
                                 </div>
                                 <div class="item">
                                     <div class="testimony-slide text-center">
-                                        <span>The Brides Family, via</span>
+                                        <span>The Grooms Family</span>
                                         <blockquote>
                                             <p>"Semoga sakinnah, mawaddah, warrahmah"</p>
                                         </blockquote>
