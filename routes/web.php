@@ -18,3 +18,5 @@ Route::get('/', [HomeController::class, 'homeIndex']);
 Route::get('/invitation/to/{username?}', [HomeController::class, 'invitationWelcome']);
 Route::get('/invitation/to/{name?}/details', [HomeController::class, 'invitationIndex']);
 Route::post('/invitation/send-wishes', [HomeController::class, 'sendWishes']);
+Route::get('/invitation/generate-link', [HomeController::class, 'generateInvitationLinkIndex']);
+Route::post('/invitation/generate-link/generate', [HomeController::class, 'generateInvitationLink']);

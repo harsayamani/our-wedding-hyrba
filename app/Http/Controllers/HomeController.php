@@ -55,4 +55,32 @@ class HomeController extends Controller
             ], 200);
         }
     }
+
+    public function generateInvitationLinkIndex() {
+        return \view('invitation-link');
+    }
+
+    public function generateInvitationLink(Request $request) {
+        $name = $request->name;
+        $link = '';
+        $check = Tamu::where('name', $name)->get();
+        if($check->count() < 1) {
+            $username = substr(str_shuffle('0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'), 1, 12);
+            $tamu = new Tamu();
+            $tamu->name = $name;
+            $tamu->username = $username;
+            $tamu->address = 'Tempat';
+            if($tamu->save()) {
+                $link = 'https://balqis-harsa.life/invitation/to/'.$username.'';
+            }
+        } else {
+            $link = 'https://balqis-harsa.life/invitation/to/'.$check[0]->username.'';
+        }
+        return response()->json([
+            'err'=> false,
+            'link' => $link,
+            'name' => $name
+        ], 200);
+
+    }
 }
