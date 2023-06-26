@@ -157,7 +157,7 @@
                             <h2>1 Juli 2023</h2>
                             <div class="simply-countdown simply-countdown-one"></div>
                             {{-- <p><a href="#" class="btn btn-default btn-sm">Save the date</a></p> --}}
-                            <audio autoplay loop hidden>
+                            <audio autoplay loop hidden preload="none">
                                 <source src="/audios/background_sound.mp3" type="audio/mp3">
                                 Your browser does not support the audio element.
                             </audio>
