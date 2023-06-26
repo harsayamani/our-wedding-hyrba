@@ -80,7 +80,7 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <div class="display-t">
                         <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                            <h2><b>Hi</b>, {{ $name }}</h2>
+                            <h2><b>Yth.</b> {{ $name }}</h2>
                             <h2>You are invited to :</h2>
                             <br>
                             <h1><b>Harsa &amp; Balqis'</b></h1>
